@@ -1,4 +1,3 @@
-# abi-s-repo
-WELCOME TO MY WORK AND PROJECTS 
-<br>
-AUTHOR - ABIZAR (7)
+Business report using Excel-based descriptive analytics and statistical analysis for BBM100 at Aston University.
+
+
